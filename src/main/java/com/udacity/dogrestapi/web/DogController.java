@@ -1,4 +1,4 @@
-package com.udacity.dogrestapi.controller;
+package com.udacity.dogrestapi.web;
 
 import com.udacity.dogrestapi.model.Dog;
 import com.udacity.dogrestapi.service.DogService;
